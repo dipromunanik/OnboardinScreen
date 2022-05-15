@@ -1,16 +1,5 @@
-# onboardingscreen
+#onboardingscreen
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1652637543](https://user-images.githubusercontent.com/96645477/168487343-f9d4b458-86ec-4d07-afcf-9077181e5372.png)
+![Screenshot_1652637551](https://user-images.githubusercontent.com/96645477/168487350-d1e0f2f2-54f9-41fd-b363-9fb4866afaac.png)
+![Screenshot_1652637567](https://user-images.githubusercontent.com/96645477/168487357-77112add-f7a0-4c09-8ba6-d5f4e8b4ea78.png)
